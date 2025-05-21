@@ -1,0 +1,37 @@
+{
+    "swarm": {
+        "1": {
+            "model": "iris",
+            "initial_pose": {
+                "x": 40.0,
+                "y": 5.0
+            },
+            "destination_pose": {
+                "x": 95.0,
+                "y": 170.0
+            }
+        },
+        "2": {
+            "model": "iris",
+            "initial_pose": {
+                "x": 55.0,
+                "y": 0.0
+            },
+            "destination_pose": {
+                "x": 55.0,
+                "y": 175.0
+            }
+        },
+        "3": {
+            "model": "iris",
+            "initial_pose": {
+                "x": 75.0,
+                "y": 5.0
+            },
+            "destination_pose": {
+                "x": 30.0,
+                "y": 100.0
+            }
+        }
+    }
+}

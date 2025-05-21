@@ -1,0 +1,59 @@
+{
+    "swarm": {
+        "1": {
+            "model": "iris",
+            "initial_pose": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "destination_pose": {
+                "x": 30.0,
+                "y": 20.0
+            }
+        },
+        "2": {
+            "model": "iris",
+            "initial_pose": {
+                "x": 7.0,
+                "y": 1.0
+            },
+            "destination_pose": {
+                "x": 30.0,
+                "y": 20.0
+            }
+        },
+        "3": {
+            "model": "iris",
+            "initial_pose": {
+                "x": 12.0,
+                "y": 1.0
+            },
+            "destination_pose": {
+                "x": 30.0,
+                "y": 20.0
+            }
+        },
+        "4": {
+            "model": "iris",
+            "initial_pose": {
+                "x": 1.0,
+                "y": 7.0
+            },
+            "destination_pose": {
+                "x": 30.0,
+                "y": 20.0
+            }
+        },
+        "5": {
+            "model": "iris",
+            "initial_pose": {
+                "x": 7.0,
+                "y": 7.0
+            },
+            "destination_pose": {
+                "x": 30.0,
+                "y": 20.0
+            }
+        }
+    }
+}

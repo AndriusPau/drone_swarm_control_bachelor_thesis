@@ -1,0 +1,114 @@
+{
+    "swarm": {
+        "1": {
+            "model": "iris",
+            "initial_pose": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "destination_pose": {
+                "x": 100.0,
+                "y": 100.0
+            }
+        },
+        "2": {
+            "model": "iris",
+            "initial_pose": {
+                "x": 7.0,
+                "y": 1.0
+            },
+            "destination_pose": {
+                "x": 100.0,
+                "y": 100.0
+            }
+        },
+        "3": {
+            "model": "iris",
+            "initial_pose": {
+                "x": 12.0,
+                "y": 1.0
+            },
+            "destination_pose": {
+                "x": 100.0,
+                "y": 100.0
+            }
+        },
+        "4": {
+            "model": "iris",
+            "initial_pose": {
+                "x": 1.0,
+                "y": 7.0
+            },
+            "destination_pose": {
+                "x": 100.0,
+                "y": 100.0
+            }
+        },
+        "5": {
+            "model": "iris",
+            "initial_pose": {
+                "x": 7.0,
+                "y": 7.0
+            },
+            "destination_pose": {
+                "x": 100.0,
+                "y": 100.0
+            }
+        },
+        "6": {
+            "model": "iris",
+            "initial_pose": {
+                "x": 93.0,
+                "y": 93.0
+            },
+            "destination_pose": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        "7": {
+            "model": "iris",
+            "initial_pose": {
+                "x": 99.0,
+                "y": 93.0
+            },
+            "destination_pose": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        "8": {
+            "model": "iris",
+            "initial_pose": {
+                "x": 88.0,
+                "y": 99.0
+            },
+            "destination_pose": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        "9": {
+            "model": "iris",
+            "initial_pose": {
+                "x": 93.0,
+                "y": 99.0
+            },
+            "destination_pose": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        "10": {
+            "model": "iris",
+            "initial_pose": {
+                "x": 99.0,
+                "y": 99.0
+            },
+            "destination_pose": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        }
+    }
+}
